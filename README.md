@@ -1,6 +1,10 @@
 # Roll-a-Ball
-Former atomic physics major student struggling to get out of realm of physics academia 
+## Former atomic physics major student struggling to get out of realm of physics academia 
+
+
 Just for fun, trying to get used to C# &amp; Unity3D
+
+
 Below is the playthrough video:
 
 
